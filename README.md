@@ -2,7 +2,7 @@
 
 This is a simple python program that identifies the face and mark attendence for therecognised faces in an excel sheet.
 
-****You need these following libraries pre-installed in your system:
+**You need these following libraries pre-installed in your system:**
 
 1.face_recognition
 2.Opencv
